@@ -1,1 +1,17 @@
-
+{
+  "META": {
+    "repoName": "Reuben's Repo for Fight Reboot and other things",
+    "repoIcon": "https://raw.githubusercontent.com/Reubenmations/ABFRRepository/Base/IMG_7438.PNG"
+  },
+  "revivals of Games": [
+    {
+      "name": "Angry Birds Fight: Reboot",
+      "version": "Alpha 2",
+      "down": "https://github.com/Reubenmations/ABFRRepository/releases/download/alpha/FightReboot_Alpha2.ipa",
+      "category": "Games",
+      "description": "If you need help go to our discord lol, also hello abfr fans.",
+      "bundleID": "com.rovio.angrybirdsfight",
+      "appstore": "com.rovio.angrybirdsfight"
+    }
+  ]
+}
